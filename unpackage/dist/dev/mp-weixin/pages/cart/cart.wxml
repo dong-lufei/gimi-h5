@@ -1,0 +1,1 @@
+<view><view wx:if="{{a}}"><view wx:for="{{b}}" wx:for-item="item" wx:key="c"><image src="{{item.a}}" style="width:200px;height:200px"></image><view>{{item.b}}</view></view><view>总价：{{c}}</view></view><navigator url="../order/order">去结算</navigator></view>

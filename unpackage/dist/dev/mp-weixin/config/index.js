@@ -1,0 +1,15 @@
+"use strict";
+const dataBaseURL = "https://mall-gateway.i.xgimi.com";
+const tokenBaseURL = "https://ucenter-api.xgimi.com";
+const callbackURL = "https://m.xgimi.com/pages/user/user";
+const cartURL = "https://sp2.xgimi.com";
+const qikueduURL = "https://ai.qikuedu.com";
+const bspappURL = "https://97fca9f2-41f6-449f-a35e-3f135d4c3875.bspapp.com";
+const timeout = 5e3;
+exports.bspappURL = bspappURL;
+exports.callbackURL = callbackURL;
+exports.cartURL = cartURL;
+exports.dataBaseURL = dataBaseURL;
+exports.qikueduURL = qikueduURL;
+exports.timeout = timeout;
+exports.tokenBaseURL = tokenBaseURL;

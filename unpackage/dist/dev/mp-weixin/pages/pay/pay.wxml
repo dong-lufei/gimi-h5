@@ -1,0 +1,1 @@
+<view><view>APP 或微信小程序支付</view><button size="mini" type="primary" bindtap="{{a}}">小程序支付</button></view>

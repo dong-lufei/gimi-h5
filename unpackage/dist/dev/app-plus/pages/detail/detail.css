@@ -1,0 +1,28 @@
+/* 全局颜色 */
+/*全局的字体*/
+/* 全局的间距*/
+/* 全局的按钮*/
+/* 圆角 */
+/* 基础样式 */
+.felx[data-v-eca06f3c] {
+  display: flex;
+}
+.auto[data-v-eca06f3c] {
+  flex: 1;
+}
+.bigTitle[data-v-eca06f3c] {
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 2.75rem;
+  padding-left: 0.625rem;
+  margin-top: 1.25rem;
+}
+.detail-container[data-v-eca06f3c] {
+  padding: 0.625rem;
+}
+.detail-container .title[data-v-eca06f3c] {
+  text-align: center;
+}
+.detail-container .imageList uni-image[data-v-eca06f3c] {
+  width: 100%;
+}

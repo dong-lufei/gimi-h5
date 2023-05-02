@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "product-header": "../ProductHeader/ProductHeader",
+    "product-item": "../ProductItem/ProductItem"
+  }
+}

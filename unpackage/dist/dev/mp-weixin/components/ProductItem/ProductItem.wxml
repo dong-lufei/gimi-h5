@@ -1,0 +1,1 @@
+<navigator url="{{d}}" class="productItem-container data-v-bdc91c96"><view class="img data-v-bdc91c96"><image class="data-v-bdc91c96" src="{{a}}" alt="列表图"></image></view><view class="info data-v-bdc91c96"><view class="priceTitle data-v-bdc91c96"><view class="title data-v-bdc91c96">{{b}}</view><view class="price data-v-bdc91c96"> ￥{{c}}</view></view></view></navigator>

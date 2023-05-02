@@ -1,0 +1,70 @@
+/* 全局颜色 */
+/*全局的字体*/
+/* 全局的间距*/
+/* 全局的按钮*/
+/* 圆角 */
+/* 基础样式 */
+.felx[data-v-e4e4508d] {
+  display: flex;
+}
+.auto[data-v-e4e4508d] {
+  flex: 1;
+}
+.bigTitle[data-v-e4e4508d] {
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 2.75rem;
+  padding-left: 0.625rem;
+  margin-top: 1.25rem;
+}
+.login-container[data-v-e4e4508d] {
+  margin: 3rem 1.875rem;
+}
+.login-container .title[data-v-e4e4508d] {
+  font-size: 1.5rem;
+  line-height: 2.0625rem;
+  color: #1c1c20;
+  letter-spacing: -0.00875rem;
+  margin-bottom: 0.5rem;
+}
+.login-container .phone[data-v-e4e4508d],
+.login-container .code[data-v-e4e4508d] {
+  display: inline-flex;
+  margin-bottom: 1rem;
+}
+.login-container .phone .split[data-v-e4e4508d] {
+  margin: 0 0.6875rem 0 1rem;
+  color: #b6b6ba;
+}
+.login-container .phone .input-placeholder[data-v-e4e4508d] {
+  color: #b6b6ba;
+}
+.login-container .code[data-v-e4e4508d] {
+  width: 100%;
+  justify-content: space-between;
+}
+.login-container .code .input-placeholder[data-v-e4e4508d] {
+  color: #b6b6ba;
+}
+.login-container .code uni-button[data-v-e4e4508d] {
+  color: #b6b6ba;
+  margin-right: 0;
+  line-height: 2.55555556;
+}
+.login-container .code uni-button.sendColor[data-v-e4e4508d] {
+  color: #3d61f4;
+}
+.login-container .login-btn[data-v-e4e4508d] {
+  height: 3.5rem;
+  border-radius: 0.75rem;
+  color: #fff;
+  background-color: #c4d6ff;
+  line-height: 3.5rem;
+}
+.login-container .login-btn.loginTo[data-v-e4e4508d] {
+  background-color: #3d61f4;
+}
+.login-container .login-btn[data-v-e4e4508d]::after {
+  content: "";
+  border: none;
+}

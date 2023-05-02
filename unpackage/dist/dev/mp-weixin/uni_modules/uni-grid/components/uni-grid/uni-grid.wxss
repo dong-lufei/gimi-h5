@@ -1,0 +1,34 @@
+/* 全局颜色 */
+/*全局的字体*/
+/* 全局的间距*/
+/* 全局的按钮*/
+/* 圆角 */
+/* 基础样式 */
+.felx.data-v-07acefee {
+  display: flex;
+}
+.auto.data-v-07acefee {
+  flex: 1;
+}
+.bigTitle.data-v-07acefee {
+  font-size: 40rpx;
+  font-weight: 500;
+  line-height: 88rpx;
+  padding-left: 20rpx;
+  margin-top: 40rpx;
+}
+.uni-grid-wrap.data-v-07acefee {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+.uni-grid.data-v-07acefee {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.uni-grid--border.data-v-07acefee {
+  position: relative;
+  z-index: 1;
+  border-left: 1px #D2D2D2 solid;
+}

@@ -1,0 +1,61 @@
+/* 全局颜色 */
+/*全局的字体*/
+/* 全局的间距*/
+/* 全局的按钮*/
+/* 圆角 */
+/* 基础样式 */
+.felx.data-v-b61716b5 {
+  display: flex;
+}
+.auto.data-v-b61716b5 {
+  flex: 1;
+}
+.bigTitle.data-v-b61716b5 {
+  font-size: 40rpx;
+  font-weight: 500;
+  line-height: 88rpx;
+  padding-left: 20rpx;
+  margin-top: 40rpx;
+}
+.productCard-container.data-v-b61716b5 {
+  position: relative;
+}
+.productCard-container image.data-v-b61716b5 {
+  width: 100%;
+  height: 712rpx;
+  margin-top: 40rpx;
+  border-radius: 20rpx;
+}
+.productCard-container .info.data-v-b61716b5 {
+  position: absolute;
+  bottom: 28rpx;
+  width: 100%;
+  padding: 0 32rpx;
+  box-sizing: border-box;
+}
+.productCard-container .info .priceTitle.data-v-b61716b5 {
+  color: #fff;
+  font-style: normal;
+}
+.productCard-container .info .priceTitle .title.data-v-b61716b5 {
+  margin-bottom: 6rpx;
+  line-height: 40rpx;
+  font-size: 36rpx;
+  font-weight: 500;
+  letter-spacing: -1rpx;
+}
+.productCard-container .info .priceTitle .price.data-v-b61716b5 {
+  font-size: 26rpx;
+  line-height: 40rpx;
+  letter-spacing: -1rpx;
+}
+.productCard-container .info .btn.data-v-b61716b5 {
+  position: absolute;
+  bottom: 16rpx;
+  right: 16rpx;
+  padding: 14rpx 30rpx;
+  font-size: 26rpx;
+  background-color: #fff;
+  border-radius: 28rpx;
+  line-height: 1;
+}

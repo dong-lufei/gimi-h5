@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "分类",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-grid-item": "../../uni_modules/uni-grid/components/uni-grid-item/uni-grid-item",
+    "uni-grid": "../../uni_modules/uni-grid/components/uni-grid/uni-grid",
+    "uni-goods-nav": "../../uni_modules/uni-goods-nav/components/uni-goods-nav/uni-goods-nav"
+  }
+}

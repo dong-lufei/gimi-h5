@@ -1,0 +1,58 @@
+/* 全局颜色 */
+/*全局的字体*/
+/* 全局的间距*/
+/* 全局的按钮*/
+/* 圆角 */
+/* 基础样式 */
+.felx.data-v-64f4bcf4 {
+  display: flex;
+}
+.auto.data-v-64f4bcf4 {
+  flex: 1;
+}
+.bigTitle.data-v-64f4bcf4 {
+  font-size: 40rpx;
+  font-weight: 500;
+  line-height: 88rpx;
+  padding-left: 20rpx;
+  margin-top: 40rpx;
+}
+.home-search-container.data-v-64f4bcf4 {
+  display: flex;
+  align-items: center;
+  height: 120rpx;
+}
+.home-search-container .input-warp.data-v-64f4bcf4 {
+  position: relative;
+  padding: 18rpx 60rpx;
+  margin-right: 32rpx;
+  border: 4rpx solid #efefef;
+  border-radius: 160rpx;
+  flex: 1;
+}
+.home-search-container .input-warp input.data-v-64f4bcf4 {
+  border-radius: 64rpx;
+}
+.home-search-container .input-warp .input-placeholder.data-v-64f4bcf4 {
+  font-size: 14px;
+  line-height: 18px;
+  color: rgba(0, 0, 0, 0.4);
+}
+.home-search-container .input-warp image.data-v-64f4bcf4 {
+  position: absolute;
+  left: 14rpx;
+  top: 14rpx;
+  width: 48rpx;
+  height: 48rpx;
+  margin-right: 10rpx;
+}
+.home-search-container navigator.data-v-64f4bcf4 {
+  display: inline-block;
+  text-align: center;
+  width: 80rpx;
+  height: 100%;
+}
+.home-search-container navigator image.data-v-64f4bcf4 {
+  width: 48rpx;
+  height: 48rpx;
+}
