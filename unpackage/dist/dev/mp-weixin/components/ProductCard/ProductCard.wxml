@@ -1,1 +1,0 @@
-<view class="productCard-container data-v-b61716b5"><image class="data-v-b61716b5" src="{{a}}" alt="卡片图"></image><view class="info data-v-b61716b5"><view class="priceTitle data-v-b61716b5"><view class="title data-v-b61716b5">{{b}}</view><view class="price data-v-b61716b5"> ￥{{c}}</view></view><view class="btn data-v-b61716b5">{{d}}</view></view></view>

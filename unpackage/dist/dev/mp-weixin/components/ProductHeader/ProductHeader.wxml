@@ -1,1 +1,0 @@
-<view class="productHeader-container data-v-c253969e"><text class="data-v-c253969e">{{a}}</text><navigator class="data-v-c253969e" url="/pages/category/category?" open-type="switchTab">更多 ></navigator></view>
